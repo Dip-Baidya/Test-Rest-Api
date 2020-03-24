@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd0d9442-dbb3-414a-a99f-81cd96fd73b5" name="Default Changelist" comment="" />
+    <list default="true" id="fd0d9442-dbb3-414a-a99f-81cd96fd73b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Vagrantfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,16 +14,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZZxPp4Gbvzf01JkpBc7LGwwRMA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,11 +39,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585060395724</updated>
-      <workItem from="1585060397003" duration="1591000" />
+      <workItem from="1585060397003" duration="2283000" />
+      <workItem from="1585066250730" duration="875000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2111" y="175" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585066540105">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2111" y="175" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/1366.0.1920.1080/59.27.1307.741@1366.0.1920.1080" timestamp="1585066540105" />
+    <state x="1982" y="96" key="SettingsEditor" timestamp="1585066582730">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1982" y="96" key="SettingsEditor/1366.0.1920.1080/59.27.1307.741@1366.0.1920.1080" timestamp="1585066582730" />
+    <state x="368" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1585066254274">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="368" y="210" key="com.intellij.ide.util.TipDialog/1366.0.1920.1080/59.27.1307.741@59.27.1307.741" timestamp="1585066254274" />
   </component>
 </project>
